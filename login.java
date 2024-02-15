@@ -1,1 +1,2 @@
-hi this is java
+checking what is softlink
+login page of java
